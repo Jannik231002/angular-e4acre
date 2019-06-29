@@ -5,7 +5,7 @@
 #Scheibe-Innen {
   width: 400px;
   position: absolute;
-  transform: rotate(318.461538deg)
+  /*transform: rotate(318.461538deg)*/
 }
 #Container {
   height: 400px;
