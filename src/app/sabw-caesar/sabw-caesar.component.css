@@ -1,0 +1,11 @@
+#Scheibe {  
+  width: 400px;
+  position: absolute;
+}
+#Scheibe-Innen {
+  width: 400px;
+  position: absolute;
+}
+#Container {
+  height: 300px;
+}
