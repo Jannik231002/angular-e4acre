@@ -6,7 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./sabw-caesar.component.css']
 })
 export class SabwCaesarComponent implements OnInit {
-
+zahl=12;
+dreheScheibe() {
+console.log();('Hallo')
+}
   constructor() { }
 
   ngOnInit() {
