@@ -1,4 +1,6 @@
-<input [(ngModel)]="zahl" />
+<form>
+<input type="number"[(ngModel)]="zahl" name="zahl" />
+</form>
 <button (click)="dreheScheibe()">Drehen</button>
 <div id="Container">
 <img id="Scheibe" src="https://pasoma.de/sabw/scheibegross.png"/>
