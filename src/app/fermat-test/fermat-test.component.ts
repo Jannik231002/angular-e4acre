@@ -6,8 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fermat-test.component.css']
 })
 export class FermatTestComponent implements OnInit {
-
-  constructor() { }
+Kandidat: number = 13;
+Testanzahl: number = 5;
+Ergebnis = "noch nicht berechnet"
+constructor() { }
 
   ngOnInit() {
   }
